@@ -1,2 +1,1 @@
-# Acadsys
-Offline-first academic grade management for low-resource schools
+Offline-first multi-school management system for low-connectivity environments
